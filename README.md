@@ -66,6 +66,5 @@ It provides insights into employee attrition, salary trends, and workforce distr
 ## 👨‍💻 Author
 
 **Anuj Shakya**
-Aspiring Data Analyst
 
 ---
